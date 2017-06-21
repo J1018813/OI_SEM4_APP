@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VIRTUe</string>
+    <string name="title_activity_login">Login</string>
+    <string name="text_login_button">LOGIN</string>
+    <string name="text_login_no_account">No account yet? Create one</string>
+    <string name="text_setting_start">Let\'s start!</string>
+</resources>
